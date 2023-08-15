@@ -332,7 +332,7 @@ body{
 
 /* Media Query */
 
-@media screen and (max-width: 680px){
+@media screen and (max-width: 767px){
        .nav-bar .heading{
          font-size: 27px;   
        }

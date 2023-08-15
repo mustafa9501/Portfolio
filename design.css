@@ -323,6 +323,16 @@ body{
     padding-bottom: 81px;
 }
 
+.footer-icons .linkedin-logo{
+     cursor: pointer;
+}
+.footer-icons .github-logo{
+    cursor: pointer;
+}
+.footer-icons .instagram-logo{
+    cursor: pointer;
+}
+
 .footer .copyright{
     text-align: justify;
     font-family: Sora;
